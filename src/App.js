@@ -8,8 +8,8 @@ import Team from "./components/Team";
 
 function App() {
   return (
-    <div className="">
-      <Navbar />
+    <div>
+      <Navbar/>
       <Home />
       <About />
       <Services />
